@@ -1,0 +1,3 @@
+# first-repository
+this project is to just understand git and it's basic principles...
+:)
